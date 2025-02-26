@@ -1,0 +1,1 @@
+C:\src\solar\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\591e5m5h\obj\armeabi-v7a
